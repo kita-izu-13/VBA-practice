@@ -23,7 +23,8 @@ VBAの基本学習として作成しました。<br>
 Lebel1　セルA1に「こんにちは！」を表示<br>
 Level2　セルB2に「８５」を表示する、判定メッセージ、「Level2 完了！」表示<br>
 Lebel3　ボタンをクリックして、処理を実行<br>
-Lebel4　Level4.　フォーム入力で追加<br>
+Lebel4　フォーム入力で追加<br>
+Level5 重複チェック（同じものは追加しない）<br>
 　> [▲ トップへ戻る](#top)
 
 ## 使用環境と技術<br>
@@ -34,6 +35,8 @@ Lebel4　Level4.　フォーム入力で追加<br>
 ## 実行イメージ<br>
 Level4<br>
 !["vba4"](images/level4.gif) <br>
+Level5<br>
+!["vba4"](images/level5.gif) <br>
 
 　　　> [▲ トップへ戻る](#top)
  
@@ -56,6 +59,7 @@ Level4<br>
 2026年3月3日　level4<br>
 2026年3月4日　復習＆ループ＆シートへコピー<br>
 2026年3月5日　復習＆修正<br>
+2026年3月6日　level5<br>
 　　　> [▲ トップへ戻る](#top)
    
 ## 制作物<br>
