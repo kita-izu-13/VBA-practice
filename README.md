@@ -32,6 +32,8 @@ Level9　リスト検索<br>
 Level10　部分一致検索<br>
 Level11　重複チェック（登録前チェック）<br>
 Level12　別シート操作<br>
+Level13　条件付きコピー<br>
+Level14　複数条件で抽出（AND / OR）<br>
 　> [▲ トップへ戻る](#top)
 
 ## 使用環境と技術<br>
@@ -74,6 +76,8 @@ Level5<br>
 2026年3月13日　level10<br>
 2026年3月16日　level11<br>
 2026年3月17日　level12<br>
+2026年3月18日　level13<br>
+2026年3月19日　level14<br>
 　　　> [▲ トップへ戻る](#top)
    
 ## 制作物<br>
